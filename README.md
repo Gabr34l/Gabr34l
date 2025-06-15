@@ -26,7 +26,7 @@
 
 - [![Instagram](https://img.shields.io/badge/@santos_gbss-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santos_gbss/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-santos-9833952b2/)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmaam25@gmail.com)
+- ✉️ Email: gabrielmaam25@gmail.com  
 
 
 ---
