@@ -5,7 +5,7 @@
  👨‍💻 Sobre mim
 - 👋 Olá, meu nome é **Gabriel Silva Santos**
 - 📍 Natural de **Monte Alegre de Minas - MG**
-- 🧠 Interessado em **dados (MySQL, Java e afins)**
+- 🧠 Interessado em **dados (MySQL, Python, Django, Java e afins)**
 - 🎓 Atualmente estudante de **Análise e Desenvolvimento de Sistemas - UNIPAC Uberlândia-MG**
 
 ---
