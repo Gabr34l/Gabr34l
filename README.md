@@ -6,7 +6,7 @@
 - 👋 Olá, meu nome é **Gabriel Silva Santos**
 - 📍 Natural de **Monte Alegre de Minas - MG**
 - 🧠 Interessado em **dados (MySQL, Python, Django, Java, MongoDB e afins)**
-- 🎓 Atualmente estudante de **Análise e Desenvolvimento de Sistemas - UNIPAC Uberlândia-MG**
+- 🎓 Formado **Análise e Desenvolvimento de Sistemas - UNIPAC Uberlândia-MG**
 
 ---
 
